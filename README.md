@@ -12,6 +12,8 @@ This application uses the concept of object-oriented programming (OOP). PDO is u
 ![7](https://user-images.githubusercontent.com/56784702/201078473-1539c72b-2f9f-428f-8d3d-cfda61f1178c.png)
 ![5](https://user-images.githubusercontent.com/56784702/201078466-d08d9c05-21a8-4eab-81c1-cd87ae405c3e.png)
 ![6](https://user-images.githubusercontent.com/56784702/201078469-5b2c326d-ce20-40c3-85b7-d266d13eb648.png)
+![8](https://user-images.githubusercontent.com/56784702/203372351-22c473d0-24e6-4824-ad09-3701f0f48de2.png)
+
 
 
 
